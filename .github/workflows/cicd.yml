@@ -1,4 +1,4 @@
-name: Build-Push-Deploy-javacode #name of the workflow
+name: Build-Push-Deploy-javacode #name of the workflows
 on: 
   push:
     branch: [ "master" ]
